@@ -1,0 +1,33 @@
+header h1{
+    text-align: center;
+    color: white;
+    background-color: pink;
+    padding: 100px;
+}
+nav a{
+    text-decoration:none;
+    color:white;
+    text-align:center;
+    padding:20px;
+    float:left;
+}
+nav{
+    background-color: black;
+    overflow:hidden; 
+    padding:20px;
+    position:-webkit-sticky;
+    position: sticky;
+    top:0px;
+}
+nav a:hover{
+    color:brown;
+}
+footer{
+    background-color: rosybrown;
+    text-align: center;
+    padding:20px;
+}
+footer a:link{
+    text-decoration: none;
+    color: seashell;
+}
