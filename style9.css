@@ -1,0 +1,12 @@
+button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    border: 1px solid black;
+    box-shadow:2px 2px blueviolet;
+    background-color: yellow;
+    border-radius: 10px;
+    text-transform: uppercase;
+    padding:5px 10px;
+    color:blueviolet;
+    cursor:pointer;
+}
